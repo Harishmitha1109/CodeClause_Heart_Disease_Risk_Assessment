@@ -27,3 +27,7 @@ Heart Disease Dataset (Kaggle)
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+# Heart Disease Risk Assessment App
+
+## 🔗 Live Streamlit App
+[Click here to view the app](https://harishmitha1109-codeclause-heart-disease-risk-assess-app-lj7znj.streamlit.app/)
